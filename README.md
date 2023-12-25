@@ -7,4 +7,4 @@ I am a mobile developer with react native and typescript. Here's a brief overvie
 
 ## Technolohies I work with
 
-![npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
+![asfasm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
