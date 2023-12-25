@@ -6,4 +6,5 @@ I am a mobile developer with react native and typescript. Here's a brief overvie
 - React, NextJS and other frameworks
 
 ## Technolohies I work with
-[npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
+
+![npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
