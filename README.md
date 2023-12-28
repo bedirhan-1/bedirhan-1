@@ -17,20 +17,27 @@ I believe in continuous learning and staying up-to-date with the latest technolo
 
 <hr/>
 
-### Technolohies I work with
+### Technolohies I Work With
 
 ![npm](https://img.shields.io/npm/v/react-native?logo=react&label=React%20Native&color=%2361DAFB)
-
-
 ![npm](https://img.shields.io/npm/v/react?logo=react&label=React&color=%2361DAFB)
 ![npm](https://img.shields.io/npm/v/typescript?logo=typescript&label=React%20Native&color=%233178C6)
 ![npm](https://img.shields.io/npm/v/next?logo=nextdotjs&label=Next%20JS)
 ![npm](https://img.shields.io/npm/v/javascript?logo=javascript&label=JavaScript&color=%23F7DF1E)
 
+![npm](https://img.shields.io/npm/v/react-navigation?label=React%20Navigation)
+![npm](https://img.shields.io/npm/v/react-router?label=React%20Router)
+![npm](https://img.shields.io/npm/v/redux-toolkit?logo=redux&label=Redux)
+![npm](https://img.shields.io/npm/v/redux-toolkit?logo=redux&label=Redux-Toolkit)
+![npm](https://img.shields.io/npm/v/react-native-async-storage?label=react-native-async-storage)
+![npm](https://img.shields.io/npm/v/react-native-reanimated?logo=reanimated&label=React%20Native%20Reanimated&color=purple)
+![npm](https://img.shields.io/npm/v/react-native-camera?label=React%20Native%20Camera)
+
 ## Contact Me
 
 for something to ask or offer :)
-I'm always open to new opportunities, collaborations, or simply discussing technology. Feel free to reach out to me through ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbedirhan-giden%2F)
-or ![Static Badge](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCgo3821y1qqziPWhKtpnvcw)
+I'm always open to new opportunities, collaborations, or simply discussing technology. Feel free to reach out to me through [LinkeIn](https://www.linkedin.com/in/bedirhan-giden/)
+or [Youtube](https://www.youtube.com/channel/UCgo3821y1qqziPWhKtpnvcw)
 . I look forward to connecting with fellow developers, enthusiasts, and potential collaborators!
-
+ 
+[bedirhangiden@icloud.com](mailto:bedirhangiden@icloud.com?subject=[GitHub]%20Hello%20From%20Github)
