@@ -36,7 +36,7 @@ I believe in continuous learning and staying up-to-date with the latest technolo
 ## Contact Me
 
 for something to ask or offer :)
-I'm always open to new opportunities, collaborations, or simply discussing technology. Feel free to reach out to me through [LinkeIn](https://www.linkedin.com/in/bedirhan-giden/)
+I'm always open to new opportunities, collaborations, or simply discussing technology. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/bedirhan-giden/)
 or [Youtube](https://www.youtube.com/channel/UCgo3821y1qqziPWhKtpnvcw)
 . I look forward to connecting with fellow developers, enthusiasts, and potential collaborators!
  
