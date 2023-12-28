@@ -19,7 +19,7 @@ I believe in continuous learning and staying up-to-date with the latest technolo
 
 ![npm](https://img.shields.io/npm/v/react-native?logo=react&label=React%20Native&color=%2361DAFB)
 ![npm](https://img.shields.io/npm/v/react?logo=react&label=React&color=%2361DAFB)
-![npm](https://img.shields.io/npm/v/typescript?logo=typescript&label=React%20Native&color=%233178C6)
+![npm](https://img.shields.io/npm/v/typescript?logo=typescript&label=Typescript&color=%233178C6)
 ![npm](https://img.shields.io/npm/v/next?logo=nextdotjs&label=Next%20JS)
 ![npm](https://img.shields.io/npm/v/javascript?logo=javascript&label=JavaScript&color=%23F7DF1E)
 ![npm](https://img.shields.io/npm/v/expo?logo=expo&label=Expo)
