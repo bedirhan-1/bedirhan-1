@@ -13,8 +13,6 @@ I am a mobile developer with react native and typescript. Here's a brief overvie
 ### What Sets Me Apart:
 I believe in continuous learning and staying up-to-date with the latest technologies. My commitment to delivering high-quality code, coupled with my experience in various front-end technologies, allows me to tackle diverse challenges in the ever-evolving tech landscape.
 
-
-
 <hr/>
 
 ### Technolohies I Work With
@@ -35,9 +33,7 @@ I believe in continuous learning and staying up-to-date with the latest technolo
 
 ## Contact Me
 
-for something to ask or offer :)
 I'm always open to new opportunities, collaborations, or simply discussing technology. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/bedirhan-giden/)
-or [Youtube](https://www.youtube.com/channel/UCgo3821y1qqziPWhKtpnvcw)
-. I look forward to connecting with fellow developers, enthusiasts, and potential collaborators!
+or [Youtube](https://www.youtube.com/channel/UCgo3821y1qqziPWhKtpnvcw). I look forward to connecting with fellow developers, enthusiasts, and potential collaborators!
  
 [bedirhangiden@icloud.com](mailto:bedirhangiden@icloud.com?subject=[GitHub]%20Hello%20From%20Github)
