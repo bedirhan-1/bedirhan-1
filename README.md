@@ -2,8 +2,8 @@
 
 I am a mobile developer with react native and typescript. Here's a brief overview of my skills:
 
-- React Native: 2 years of dedicated development experience, crafting cross-platform mobile applications.
-
+- React Native: 2 years of custom development and coaching experience producing cross-platform mobile applications.
+ 
 - React: 1 year of expertise in building dynamic and responsive user interfaces.
 
 - Next.js: 1 year of working with Next.js, creating fast and scalable web applications.
